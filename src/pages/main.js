@@ -16,7 +16,7 @@ export default class Main extends Component {
         const { docs } = response.data;
 
         console.log(docs);
-    }
+    };
 
      render(){
          return(
